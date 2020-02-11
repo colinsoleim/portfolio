@@ -1,0 +1,32 @@
+baseurl = "https://colinsoleim.com/"
+title = "Colin Soleim"
+theme = "pickles"
+languageCode = "en-us"
+copyright = "&copy; Colin Soleim 2019"
+paginate = 5
+paginatePath = "page"
+enableEmoji = true
+
+[Author]
+    name = "Colin"
+    profile = "https://colinsoleim.com"
+
+[Taxonomies]
+    tag = "tags"
+
+[Params]
+    headline = "Colin Soleim"
+    description = "Software engineer based in Pittsburgh, specializing in Rails, React, and agile fullstack development."
+    subtitle = "Software engineer based in Pittsburgh"
+    logo = "images/photo-favicon.png"
+    favicon = "images/photo-favicon.png"
+    avatar = "/images/photo-circle.png"
+    github = "colinsoleim"
+    ga_api_key = "UA-156919172-1"
+    author = "Colin Soleim"
+    authorwebsite = "http://colinsoleim.com"
+    bio = "Software engineer based in Pittsburgh"
+    contact = "soleimc@gmail.com"
+
+[Permalinks]
+    blog = "/:section/:year/:month/:day/:filename/"

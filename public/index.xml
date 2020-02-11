@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Colin Soleim</title>
+    <link>https://colinsoleim.com/</link>
+    <description>Recent content on Colin Soleim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Colin Soleim 2019</copyright>
+    
+	<atom:link href="https://colinsoleim.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Home</title>
+      <link>https://colinsoleim.com/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://colinsoleim.com/</guid>
+      <description>Hi, my name is Colin. I&#39;m a software engineer born and raised in Upstate New York and currently living in Pittsburgh.
+I fell in love with programming after getting my hands on a TI-83 graphing calculator at the age of 12, and it&#39;s been my full time job for the past 6 years. Before settling into that career path, I also studying Mathematics, French, and Art History in school. I received my Bachelor&#39;s from Allegheny College, and taught English in Normandy, France for a year before returning to the US to work remotely as a fullstack engineer for a small web development shop called Brand New Ship.</description>
+    </item>
+    
+  </channel>
+</rss>
