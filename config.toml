@@ -1,4 +1,4 @@
-baseurl = "https://colinsoleim.com/"
+baseurl = "https://determined-hoover-d80258.netlify.com/"
 title = "Colin Soleim"
 theme = "pickles"
 languageCode = "en-us"
@@ -9,7 +9,7 @@ enableEmoji = true
 
 [Author]
     name = "Colin"
-    profile = "https://colinsoleim.com"
+    profile = "https://determined-hoover-d80258.netlify.com"
 
 [Taxonomies]
     tag = "tags"
