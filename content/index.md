@@ -12,4 +12,7 @@ In my time at Brand New Ship, I worked with over a dozen startups to build both 
 
 Today, I'm building apps for the Shopify App Store and creating free open-source tools for other developers in the Shopify App ecosystem. 
 
-Currently, I'm actively seeking new employment opportunities. If you're interested, please checkout out my [full resume](/resume).
+Currently, I'm actively seeking new employment opportunities. If you're interested, please checkout out my [full resume](/resume.pdf).
+
+
+Updating index
