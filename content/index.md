@@ -14,5 +14,3 @@ Today, I'm building apps for the Shopify App Store and creating free open-source
 
 Currently, I'm actively seeking new employment opportunities. If you're interested, please checkout out my [full resume](/resume.pdf).
 
-
-Updating index
